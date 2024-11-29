@@ -2,11 +2,12 @@ package Javapkg;
 
 public class Assignment_1 {
 
-	public static void main(String[] args) {
+	public void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a=20; //local variable
 		int b=10;
 		int c=3;
+int d=4;
 		
 		
 		
@@ -18,13 +19,27 @@ public class Assignment_1 {
 		System.out.println(a--);// 11 10
 		System.out.println(++a);// 11 11
 		System.out.println(--a);// 10 10
-		
+		System.out.println(++a);// 11 11
+		System.out.println(--a);// 10 10
+System.out.println(++a);// 11 11
+		System.out.println(--a);// 10 10
+System.out.println(++a);// 11 11
+		System.out.println(--a);// 10 10
+System.out.println(++a);// 11 11
+		System.out.println(--a);// 10 10
+System.out.println(++a);// 11 11
+		System.out.println(--a);// 10 10
 		
 		System.out.println(a++ + ++a);//10 11 12 12
 		
 		System.out.println(a-- + b-- + --b); // 12 11 + 20 19 + 18 18
 		System.out.println(b);//18
 		System.out.println(a);//11
+System.out.println(a);//11
+System.out.println(a);//11
+System.out.println(a);//11
+
+
 		*/
 		
 		
